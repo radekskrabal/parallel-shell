@@ -1,3 +1,9 @@
+### v2.0.0
+
+Exit process on child process exit (success or exit).
+
+Minor refactoring.
+
 ### v1.1.1
 
  - [#11](https://github.com/keithamus/parallelshell/pull/11) Fix regression
